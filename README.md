@@ -11,5 +11,7 @@ The HTML code seems pretty straightforward and clean. The CSS file is pretty lon
 * HTML - Added an matching ID to the image to enable the Search Engine Optimization header to link to that portion of the webpage
 * Changed the section names to make the names more indicative of the contents - updated the CSS names to match
 * Applied sections and asides to remove the duplicated classes and CSS portions - updated CSS and HTML to match
-* Rearranged the CSS blocks to match the order of the HTML/Webpage
+* Rearranged the CSS blocks for better readability
 * Added notes in the HTML code to further indicate the main pieces of content within the code
+* Added "Alt" tags to the pictures
+
