@@ -15,3 +15,4 @@ The HTML code seems pretty straightforward and clean. The CSS file is pretty lon
 * Added notes in the HTML code to further indicate the main pieces of content within the code
 * Added "Alt" tags to the pictures
 
+![Page Preview](https://github.com/lyndsielane/01-HTML-Git-CSS-02-Homework/blob/main/assets/images/127.0.0.1_5500_01-HTML-Git-CSS-02-Homework_index.html.png?raw=true)
